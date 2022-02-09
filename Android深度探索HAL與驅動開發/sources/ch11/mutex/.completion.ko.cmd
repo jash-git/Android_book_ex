@@ -1,0 +1,1 @@
+cmd_/root/drivers/completion/completion.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.0.0-16-generic/scripts/module-common.lds --build-id  -o /root/drivers/completion/completion.ko /root/drivers/completion/completion.o /root/drivers/completion/completion.mod.o

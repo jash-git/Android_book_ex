@@ -1,0 +1,2 @@
+kernel//root/drivers/ch11/semaphore/semaphore.ko
+kernel//root/drivers/ch11/semaphore/rw_semaphore.ko

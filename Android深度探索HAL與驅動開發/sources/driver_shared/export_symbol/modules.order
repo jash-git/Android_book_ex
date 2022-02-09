@@ -1,0 +1,2 @@
+kernel//root/drivers/driver_shared/export_symbol/symbol_consumer.ko
+kernel//root/drivers/driver_shared/export_symbol/symbol_producer.ko

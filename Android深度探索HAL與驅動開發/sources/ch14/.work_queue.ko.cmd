@@ -1,0 +1,1 @@
+cmd_/root/drivers/ch14/work_queue.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.0.0-16-generic/scripts/module-common.lds --build-id  -o /root/drivers/ch14/work_queue.ko /root/drivers/ch14/work_queue.o /root/drivers/ch14/work_queue.mod.o

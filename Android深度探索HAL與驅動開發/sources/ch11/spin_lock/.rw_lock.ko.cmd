@@ -1,0 +1,1 @@
+cmd_/root/drivers/ch11/spin_lock/rw_lock.ko := arm-none-linux-gnueabi-ld -EL -r   --build-id -o /root/drivers/ch11/spin_lock/rw_lock.ko /root/drivers/ch11/spin_lock/rw_lock.o /root/drivers/ch11/spin_lock/rw_lock.mod.o

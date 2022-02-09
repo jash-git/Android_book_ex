@@ -1,0 +1,1 @@
+cmd_/root/drivers/ch16/mmap/mmap_shared.ko := arm-none-linux-gnueabi-ld -EL -r   --build-id -o /root/drivers/ch16/mmap/mmap_shared.ko /root/drivers/ch16/mmap/mmap_shared.o /root/drivers/ch16/mmap/mmap_shared.mod.o

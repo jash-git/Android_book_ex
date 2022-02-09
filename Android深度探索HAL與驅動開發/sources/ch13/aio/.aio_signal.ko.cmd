@@ -1,0 +1,1 @@
+cmd_/root/drivers/ch13/aio/aio_signal.ko := arm-none-linux-gnueabi-ld -EL -r   --build-id -o /root/drivers/ch13/aio/aio_signal.ko /root/drivers/ch13/aio/aio_signal.o /root/drivers/ch13/aio/aio_signal.mod.o

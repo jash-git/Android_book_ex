@@ -1,0 +1,2 @@
+kernel//root/drivers/ch14/tasklet.ko
+kernel//root/drivers/ch14/wq.ko

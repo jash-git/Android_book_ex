@@ -1,0 +1,1 @@
+cmd_/root/drivers/ch16/slab/slab_cache.ko := arm-none-linux-gnueabi-ld -EL -r  -T /root/kernel/linux_kernel_2.6.36/scripts/module-common.lds --build-id  -o /root/drivers/ch16/slab/slab_cache.ko /root/drivers/ch16/slab/slab_cache.o /root/drivers/ch16/slab/slab_cache.mod.o

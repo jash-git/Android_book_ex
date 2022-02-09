@@ -1,0 +1,3 @@
+kernel//root/drivers/ch11/spin_lock/spin_lock.ko
+kernel//root/drivers/ch11/spin_lock/rw_lock.ko
+kernel//root/drivers/ch11/spin_lock/seq_lock.ko

@@ -1,0 +1,1 @@
+cmd_/root/drivers/ch13/signal/signal.ko := arm-none-linux-gnueabi-ld -EL -r   --build-id -o /root/drivers/ch13/signal/signal.ko /root/drivers/ch13/signal/signal.o /root/drivers/ch13/signal/signal.mod.o

@@ -1,0 +1,1 @@
+cmd_/root/drivers/ch16/mempool/mempool_cache.ko := arm-none-linux-gnueabi-ld -EL -r   --build-id -o /root/drivers/ch16/mempool/mempool_cache.ko /root/drivers/ch16/mempool/mempool_cache.o /root/drivers/ch16/mempool/mempool_cache.mod.o

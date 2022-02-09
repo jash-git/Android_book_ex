@@ -1,0 +1,3 @@
+kernel//root/drivers/ch10/debug/printk_demo.ko
+kernel//root/drivers/ch10/debug/proc_demo.ko
+kernel//root/drivers/ch10/debug/bug_demo.ko

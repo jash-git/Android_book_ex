@@ -1,0 +1,1 @@
+cmd_/root/drivers/ch10/debug/printk_demo.ko := arm-none-linux-gnueabi-ld -EL -r   --build-id -o /root/drivers/ch10/debug/printk_demo.ko /root/drivers/ch10/debug/printk_demo.o /root/drivers/ch10/debug/printk_demo.mod.o

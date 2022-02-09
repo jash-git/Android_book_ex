@@ -1,0 +1,1 @@
+cmd_/root/drivers/ch11/semaphore/rw_semaphore.ko := arm-none-linux-gnueabi-ld -EL -r   --build-id -o /root/drivers/ch11/semaphore/rw_semaphore.ko /root/drivers/ch11/semaphore/rw_semaphore.o /root/drivers/ch11/semaphore/rw_semaphore.mod.o

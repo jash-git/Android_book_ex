@@ -1,0 +1,1 @@
+cmd_/root/drivers/ch20/simpleblock/simple_block1.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.0.0-16-generic/scripts/module-common.lds --build-id  -o /root/drivers/ch20/simpleblock/simple_block1.ko /root/drivers/ch20/simpleblock/simple_block1.o /root/drivers/ch20/simpleblock/simple_block1.mod.o

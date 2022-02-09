@@ -1,0 +1,1 @@
+cmd_/root/drivers/ch20/no_queue_block/no_queue_block.ko := arm-none-linux-gnueabi-ld -EL -r   --build-id -o /root/drivers/ch20/no_queue_block/no_queue_block.ko /root/drivers/ch20/no_queue_block/no_queue_block.o /root/drivers/ch20/no_queue_block/no_queue_block.mod.o

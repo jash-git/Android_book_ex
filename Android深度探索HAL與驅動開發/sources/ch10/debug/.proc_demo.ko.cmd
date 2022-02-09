@@ -1,0 +1,1 @@
+cmd_/root/drivers/ch10/debug/proc_demo.ko := arm-none-linux-gnueabi-ld -EL -r   --build-id -o /root/drivers/ch10/debug/proc_demo.ko /root/drivers/ch10/debug/proc_demo.o /root/drivers/ch10/debug/proc_demo.mod.o

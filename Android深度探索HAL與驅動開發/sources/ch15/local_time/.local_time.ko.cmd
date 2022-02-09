@@ -1,0 +1,1 @@
+cmd_/root/drivers/ch15/local_time/local_time.ko := arm-none-linux-gnueabi-ld -EL -r   --build-id -o /root/drivers/ch15/local_time/local_time.ko /root/drivers/ch15/local_time/local_time.o /root/drivers/ch15/local_time/local_time.mod.o

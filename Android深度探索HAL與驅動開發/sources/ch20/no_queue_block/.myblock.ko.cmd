@@ -1,0 +1,1 @@
+cmd_/root/drivers/ch20/block/myblock.ko := arm-none-linux-gnueabi-ld -EL -r   --build-id -o /root/drivers/ch20/block/myblock.ko /root/drivers/ch20/block/myblock.o /root/drivers/ch20/block/myblock.mod.o

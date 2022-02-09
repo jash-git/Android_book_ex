@@ -1,0 +1,1 @@
+cmd_/root/drivers/driver_shared/multi_file_driver/multi_file_driver.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.0.0-15-generic/scripts/module-common.lds --build-id  -o /root/drivers/driver_shared/multi_file_driver/multi_file_driver.ko /root/drivers/driver_shared/multi_file_driver/multi_file_driver.o /root/drivers/driver_shared/multi_file_driver/multi_file_driver.mod.o
