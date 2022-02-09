@@ -1,0 +1,23 @@
+﻿光盘内容说明
+
+
+
+1.Ubuntu12.04.vmware.7z：VMWare虚拟文件（需解压），登录用户名：root，密码：12345678
+。安装后Ubuntu Linux桌面上有eclipse链接，直接双击可启动eclipse。关于更详细的使用说明参见书中的"如何使用虚拟环境"。
+
+
+
+
+2.sources：本书的源代码，虚拟环境中也有同样的一份源代码。
+
+tools/busybox： 继承了上百个命令的linux命令行工具，可以将该文件复制到手机或Android模拟器的/data/local目录中，并使用chmod 777 ./busybox命令修改其执行权限。
+
+
+
+3.tools/mkyaffs2image：将Android源代码编译后生成的system目录转换成sysmte.img文件,命令行demo如下：
+mkyaffs2image out/target/product/system/ out/target/product/system.img
+
+
+
+
+。

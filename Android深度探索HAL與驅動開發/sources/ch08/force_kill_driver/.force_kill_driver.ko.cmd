@@ -1,0 +1,1 @@
+cmd_/root/drivers/ch08/force_kill_driver/force_kill_driver.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.0.0-16-generic/scripts/module-common.lds --build-id  -o /root/drivers/ch08/force_kill_driver/force_kill_driver.ko /root/drivers/ch08/force_kill_driver/force_kill_driver.o /root/drivers/ch08/force_kill_driver/force_kill_driver.mod.o

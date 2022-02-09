@@ -1,0 +1,1 @@
+cmd_/root/drivers/ch08/driver_shared/export_symbol/symbol_consumer.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.2.0-29-generic/scripts/module-common.lds --build-id  -o /root/drivers/ch08/driver_shared/export_symbol/symbol_consumer.ko /root/drivers/ch08/driver_shared/export_symbol/symbol_consumer.o /root/drivers/ch08/driver_shared/export_symbol/symbol_consumer.mod.o

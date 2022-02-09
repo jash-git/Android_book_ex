@@ -1,0 +1,1 @@
+cmd_/root/drivers/ch08/pwm/pwm.ko := arm-none-linux-gnueabi-ld -EL -r  -T /root/kernel/linux_kernel_2.6.36/scripts/module-common.lds --build-id  -o /root/drivers/ch08/pwm/pwm.ko /root/drivers/ch08/pwm/pwm.o /root/drivers/ch08/pwm/pwm.mod.o

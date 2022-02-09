@@ -1,0 +1,1 @@
+cmd_/root/drivers/ch06/word_count/word_count.ko := arm-none-linux-gnueabi-ld -EL -r  -T /root/kernel/linux_kernel_2.6.36/scripts/module-common.lds --build-id  -o /root/drivers/ch06/word_count/word_count.ko /root/drivers/ch06/word_count/word_count.o /root/drivers/ch06/word_count/word_count.mod.o

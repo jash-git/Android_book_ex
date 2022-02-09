@@ -1,0 +1,1 @@
+cmd_/root/drivers/word_count/word_count.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.0.0-15-generic/scripts/module-common.lds --build-id  -o /root/drivers/word_count/word_count.ko /root/drivers/word_count/word_count.o /root/drivers/word_count/word_count.mod.o

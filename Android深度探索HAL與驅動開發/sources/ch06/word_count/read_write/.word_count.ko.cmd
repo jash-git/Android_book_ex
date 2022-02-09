@@ -1,0 +1,1 @@
+cmd_/root/drivers/ch06/word_count/read_write/word_count.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.0.0-16-generic/scripts/module-common.lds --build-id  -o /root/drivers/ch06/word_count/read_write/word_count.ko /root/drivers/ch06/word_count/read_write/word_count.o /root/drivers/ch06/word_count/read_write/word_count.mod.o

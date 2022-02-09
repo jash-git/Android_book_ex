@@ -1,0 +1,5 @@
+Android大陸書(簡體)範例使用步驟
+
+01.利用ConvertZ將ANSI的簡體檔案轉成ANSI的繁體檔案
+
+02.之後再用記事本把ANSI的繁體檔案轉換成UTF8的繁體檔案 (或者再利用ConvertZ再作一次)

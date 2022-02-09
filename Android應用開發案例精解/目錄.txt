@@ -1,0 +1,247 @@
+目錄：
+第1章Android簡介
+1.1簡介
+1.2Android概述
+1.3Android 2.2(Froyo)
+1.4Android 2.3(Gingerbread)
+1.5Android 3.0(Honeycomb)
+1.6Android Ice Cream Sandwich
+1.7從Android Market下載應用
+1.8包
+1.9Android軟件開發工具集（SDK）
+1.10對象技術：簡要回顧
+1.11在AVD中測試Doodlz應用
+1.12作者的Android資源
+1.13Android的開發資源
+1.14小結
+
+第2章Android Market及應用的商業問題
+2.1簡介
+2.2創建好的Android應用
+2.3Android的最佳實踐
+2.3.1兼容性
+2.3.2多屏幕支持
+2.3.3Android用戶界面指南
+2.4在Android Market上注冊
+2.5設置Google賣家賬戶
+2.6AndroidManifest.xml文件
+2.7為發布應用做準備
+2.8將應用上載到Android Market
+2.9其他的Android應用市場
+2.10為應用定價：免費或收費
+2.11通過應用內廣告獲取收益
+2.12通過應用內支付銷售虛擬商品并獲取收益
+2.13在應用內啟動Market應用
+2.14管理Android Market中的應用
+2.15推廣應用
+2.16其他流行的應用平臺
+2.17Android開發者文檔
+2.18Android幽默
+2.19小結
+
+第3章Welcome應用
+3.1簡介
+3.2技術概覽
+3.3Eclipse IDE
+3.4創建一個新工程
+3.5用ADT的Visual Layout Editor構建Welcome應用的GUI
+3.6分析main.xml文件
+3.7運行Welcome應用
+3.8小結
+
+第4章Tip Calculator應用
+4.1簡介
+4.2測試驅動的Tip Calculator應用
+4.3技術概覽
+4.4構建應用的GUI
+4.4.1TableLayout簡介
+4.4.2創建工程，添加TableLayout和組件
+4.4.3布局小結
+4.4.4定制組件，完成設計
+4.4.5Tip Calculator GUI中最終的XML標記
+4.4.6strings.xml
+4.5為應用增加功能性
+4.6小結
+
+第5章Favorite Twitter Searches應用
+5.1簡介
+5.2測試驅動的Favorite Twitter Searches應用
+5.3技術概覽
+5.4構建應用的GUI和資源文件
+5.4.1main.xml TableLayout
+5.4.2創建工程
+5.4.3創建資源文件
+5.4.4添加TableLayout和組件
+5.4.5創建一個顯示搜索框和Edit按鈕的TableRow
+5.5構建應用
+5.6AndroidManifest.xml
+5.7小結
+
+第6章Flag Quiz Game應用
+6.1簡介
+6.2測試驅動的Flag Quiz Game應用
+6.3技術概覽
+6.4構建應用的GUI和資源文件
+6.4.1main.xml LinearLayout
+6.4.2創建工程
+6.4.3創建并編輯資源文件
+6.4.4向LinearLayout添加組件
+6.4.5創建能夠動態填充的按鈕
+6.4.6創建國旗飄揚動畫
+6.5構建應用
+6.6AndroidManifest.xml
+6.7小結
+
+第7章Cannon Game應用
+7.1簡介
+7.2測試驅動的Cannon Game應用
+7.3技術概覽
+7.4構建應用的GUI和資源文件
+7.4.1創建工程
+7.4.2AndroidManifest.xml
+7.4.3strings.xml
+7.4.4main.xml
+7.4.5向應用添加聲音
+7.5構建應用
+7.5.1維護線端點的Line類
+7.5.2Activity類的CannonGame子類
+7.5.3View類的CannonView子類
+7.6小結
+
+第8章SpotOn Game應用
+8.1簡介
+8.2測試驅動的SpotOn Game應用
+8.3技術概覽
+8.4構建應用的GUI和資源文件
+8.4.1AndroidManifest.xml
+8.4.2main.xml RelativeLayout
+8.4.3用于未點中小蟲的untouched.xml ImageView
+8.4.4用于生命的life.xml ImageView
+8.5構建應用
+8.5.1Activity類的SpotOn子類
+8.5.2View類的SpotOnView子類
+8.6小結
+
+第9章Doodlz應用
+9.1簡介
+9.2測試驅動的Doodlz應用
+9.3技術概覽
+9.4構建應用的GUI和資源文件
+9.4.1創建工程
+9.4.2AndroidManifest.xml
+9.4.3strings.xml
+9.4.4main.xml
+9.4.5color_dialog.xml
+9.4.6width_dialog.xml
+9.5構建應用
+9.5.1Activity類的Doodlz子類
+9.5.2View類的DoodleView子類
+9.6小結
+
+第10章Address Book應用
+10.1簡介
+10.2測試驅動的Address Book應用
+10.3技術概覽
+10.4構建應用的GUI和資源文件
+10.4.1創建工程
+10.4.2AndroidManifest.xml
+10.4.3styles.xml
+10.4.4textview_border.xml
+10.4.5AddressBook Activity的布局：contact_list_item.xml
+10.4.6ViewContact Activity的布局：view_contact.xml
+10.4.7AddEditContact Activity的布局：add_contact.xml
+10.4.8在XML中用menu資源定義應用的MenuItem
+10.5構建應用
+10.5.1ListActivity類的AddressBook子類
+10.5.2Activity類的ViewContact子類
+10.5.3Activity類的AddEditContact子類
+10.5.4DatabaseConnector實用工具類
+10.6小結
+
+第11章Route Tracker應用
+11.1簡介
+11.2測試驅動的Route Tracker應用
+11.3技術概覽
+11.4構建應用的GUI和資源文件
+11.4.1創建工程
+11.4.2AndroidManifest.xml
+11.4.3Route Tracker布局：main.xml
+11.5構建應用
+11.5.1MapActivity類的RouteTracker子類
+11.5.2FrameLayout類的BearingFrameLayout子類
+11.5.3Overlay類的RouteOverlay子類
+11.6小結
+
+
+第12章Slideshow應用
+12.1簡介
+12.2測試驅動的Slideshow應用
+12.3技術概覽
+12.4構建應用的GUI和資源文件
+12.4.1創建工程
+12.4.2在應用的GUI中使用標準的Android圖標
+12.4.3AndroidManifest.xml
+12.4.4Slideshow ListActivity中各個ListView項的布局
+12.4.5Slideshow ListActivity的菜單
+12.4.6Set Slideshow Name對話框中EditText的布局
+12.4.7SlideshowEditor ListActivity的布局
+12.4.8SlideshowEditor ListActivity中各個ListView項的布局
+12.4.9SlideshowPlayer Activity的布局
+
+12.5構建應用
+12.5.1SlideshowInfo類
+12.5.2ListActivity類的Slideshow子類
+12.5.3ListActivity類的SlideshowEditor子類
+12.5.4ListActivity類的SlideshowPlayer子類
+12.6小結
+
+第13章Enhanced Slideshow應用
+13.1簡介
+13.2測試驅動的Enhanced Slideshow應用
+13.3技術概覽
+13.4構建應用的GUI和資源文件
+13.4.1創建工程
+13.4.2AndroidManifest.xml
+13.4.3SlideshowEditor ListActivity的改進布局
+13.4.4PictureTaker Activity的布局
+13.4.5SlideshowPlayer Activity的改進布局
+13.5構建應用
+13.5.1MediaItem類
+13.5.2SlideshowInfo類
+13.5.3Slideshow類
+13.5.4SlideshowEditor類
+13.5.5Activity類的PictureTaker子類
+13.5.6SlideshowPlayer類
+13.6小結
+
+第14章Weather Viewer應用
+14.1簡介
+14.2測試驅動的Weather Viewer應用
+14.3技術概覽
+14.4構建應用的GUI和資源文件
+14.4.1AndroidManifest.xml
+14.4.2WeatherViewerActivity的main.xml布局
+14.4.3arrays.xml中的默認城市及郵政編碼
+14.4.4WeatherViewerActivity的actionmenu.xml菜單布局
+14.4.5WeatherProvider應用窗件配置與布局
+14.5構建應用
+14.5.1WeatherViewerActivity類
+14.5.2CitiesFragment類
+14.5.3AddCityDialogFragment類
+14.5.4ForecastFragment類
+14.5.5SingleForecastFragment類
+14.5.6ReadLocationTask類
+14.5.7ReadForecastTask類
+14.5.8FiveDayForecastFragment類
+14.5.9ReadFiveDayForecastTask類
+14.5.10DailyForecast類
+14.5.11WeatherProvider類
+14.6小結
+
+索引
+在線章節（下載方式請見前言的說明）
+第15章PHAB�苫 Pizza應用
+第16章Voice Recorder應用
+第17章Enhanced Address Book應用
+第18章3D Art應用
+第19章HTML5 Favorite Twitter Searches應用
